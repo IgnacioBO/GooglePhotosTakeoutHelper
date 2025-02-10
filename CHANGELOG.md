@@ -1,3 +1,13 @@
+## 3.4.3-alt
+
+### Just a few patches ❤️‍🩹
+
+- put stuff in `date-unknown` also when not div-to-dates - #245
+- fix extras detection on mac - #243
+- add note to not worry about album finding ;)
+- nice message when trying to run interactive on headless
+
+
 ## 3.4.3
 
 ### Just a few patches ❤️‍🩹
